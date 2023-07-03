@@ -34,8 +34,8 @@ In this section, you'll find an overview of some of the projects I've currently 
 ## Contact Information
 If you'd like to get in touch with me, you can reach out through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- Github: [@exxiler](https://github.com/Exxiler)
+- [LinkedIn](https://www.linkedin.com/in/your-username)
+- [Github](https://github.com/Exxiler)
 
 Feel free to connect or message me regarding any questions, collaborations, or interesting opportunities.
 
