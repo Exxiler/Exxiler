@@ -4,15 +4,15 @@
 Hello and welcome to my GitHub profile! Here you'll find a collection of my projects, code samples, and contributions to the open-source community. I'm passionate about software development and enjoy exploring various technologies and programming languages. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions.
 
 ## Projects
-In this section, you'll find an overview of some of the projects I've been working on. Each project includes a brief description and relevant links for more details. Feel free to browse through them and provide feedback if you find something interesting!
+In this section, you'll find an overview of some of the projects I've currently working on. Each project includes a brief description and relevant links for more details. Feel free to browse through them and provide feedback if you find something interesting!
 
-1. **P1**
-   - Description: 
-   - Link: [Project Link](https://github.com/)
+1. **Invoice Management System**
+   - Description: This is one of my Fullstack projects. A basic invoice management system developed using Spring Boot backend, Thymeleaf for the frontend, and PostgreSQL database. The application allows users to manage invoices, providing functionality for creating, updating, and deleting records.
+   - Link: [Project Link]([https://github.com/](https://github.com/Exxiler/inv_man_sys))
 
-2. **P2**
-   - Description:
-   - Link: [Project Link](https://github.com/)
+2. **Personal Website**
+   - Description: Static website built with bootstrap.
+   - Link: [Project Link]([https://github.com/](https://github.com/Exxiler/Exxiler.github.io))
 
 ## I'm currently learning / improving
  - Frontend
