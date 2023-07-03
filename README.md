@@ -8,11 +8,11 @@ In this section, you'll find an overview of some of the projects I've currently 
 
 1. **Invoice Management System**
    - Description: This is one of my Fullstack projects. A basic invoice management system developed using Spring Boot backend, Thymeleaf for the frontend, and PostgreSQL database. The application allows users to manage invoices, providing functionality for creating, updating, and deleting records.
-   - Link: [Project Link]([https://github.com/](https://github.com/Exxiler/inv_man_sys))
+   - Link: [Project Link](https://github.com/Exxiler/inv_man_sys)
 
 2. **Personal Website**
    - Description: Static website built with bootstrap.
-   - Link: [Project Link]([https://github.com/](https://github.com/Exxiler/Exxiler.github.io))
+   - Link: [Project Link](https://github.com/Exxiler/Exxiler.github.io)
 
 ## I'm currently learning / improving
  - Frontend
